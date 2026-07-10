@@ -1,0 +1,10 @@
+# Power BI temporary files
+*.pbitmp
+*.tmp
+
+# Optional: uncomment this if your PBIX contains sensitive/internal data
+# *.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
