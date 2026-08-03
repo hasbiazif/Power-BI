@@ -155,7 +155,7 @@ Mengategorikan track ke dalam 4 kuadran:
 ## 📂 Struktur Repository
 
 ```
-Spotify-Analysis/
+Spotify/
 ├── Spotify Analysis.pbix      # File dashboard Power BI (utama)
 ├── Spotify_Logo_Final.png     # Logo untuk README
 └── README.md                  # Dokumentasi proyek
