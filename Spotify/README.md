@@ -41,7 +41,7 @@ Selain itu, terdapat analisis khusus **Listening Patterns** dan **Details Grid**
 
 ## 📊 Halaman Dashboard
 
-![Dashboard Preview](screenshots/Overviews.png)
+![Dashboard Preview](screenshoot/Overviews.png)
 
 Dashboard terdiri dari beberapa halaman analisis:
 
@@ -55,7 +55,7 @@ Dashboard terdiri dari beberapa halaman analisis:
 
 ### Analisis Scatter Quadrant (Listening Patterns)
 
-![Listening Patters Preview](screenshots/Listening.png)
+![Listening Patters Preview](screenshoot/Listening.png)
 
 Mengategorikan track ke dalam 4 kuadran:
 - 🎯 **High Frequency & High Listening Time** → Track paling engaging
@@ -66,7 +66,7 @@ Mengategorikan track ke dalam 4 kuadran:
 
 ### Details
 
-![Listening Patters Preview](screenshots/details.png)
+![Listening Patters Preview](screenshoot/details.png)
 
 ---
 
@@ -177,9 +177,9 @@ Terima kasih kepada pembuat tutorial atas panduan yang sangat membantu dalam mem
 
 Dibuat oleh **Hasbi Azi Faisya** — silakan hubungi saya:
 
-[![GitHub](https://img.shields.io/badge/GitHub-[username]-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasbiazif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[username]-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasbi-azi-faisya-234044159)
-[![Email](https://img.shields.io/badge/Email-[email]-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hasbiazif13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hasbiazif-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasbiazif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasbi%20Azi%20Faisya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasbi-azi-faisya-234044159)
+[![Email](https://img.shields.io/badge/Email-hasbiazif13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hasbiazif13@gmail.com)
 
 ---
 
