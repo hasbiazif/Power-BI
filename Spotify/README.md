@@ -41,6 +41,8 @@ Selain itu, terdapat analisis khusus **Listening Patterns** dan **Details Grid**
 
 ## 📊 Halaman Dashboard
 
+![Dashboard Preview](screenshots/Overviews.png)
+
 Dashboard terdiri dari beberapa halaman analisis:
 
 | Halaman | Visualisasi & Fitur |
@@ -52,11 +54,19 @@ Dashboard terdiri dari beberapa halaman analisis:
 | 📋 **Details Grid** | Grid interaktif dengan **Drill Through** (export ke CSV), **Drill Down / Drill Up**, dan navigasi hierarki |
 
 ### Analisis Scatter Quadrant (Listening Patterns)
+
+![Listening Patters Preview](screenshots/Listening.png)
+
 Mengategorikan track ke dalam 4 kuadran:
 - 🎯 **High Frequency & High Listening Time** → Track paling engaging
 - 💎 **Low Frequency & High Listening Time** → Track niche tapi berdampak
 - ⚡ **High Frequency & Low Listening Time** → Track pendek yang sering diputar
 - 📉 **Low Frequency & Low Listening Time** → Track kurang populer
+
+
+### Details
+
+![Listening Patters Preview](screenshots/details.png)
 
 ---
 
@@ -102,7 +112,7 @@ Mengategorikan track ke dalam 4 kuadran:
 | `shuffle` | Status mode shuffle (TRUE/FALSE) |
 | `skipped` | Apakah track di-skip sebelum selesai (TRUE/FALSE) |
 
-> 📌 **Catatan:** File data mentah (`.csv`, `.xlsx`) **tidak disertakan** dalam repository karena ukurannya besar. Dataset tersedia secara lokal pada saat pengembangan dashboard.
+> 📌 **Catatan:** File data mentah (`.csv`, `.xlsx`) **tidak disertakan**.
 
 ---
 
@@ -165,11 +175,11 @@ Terima kasih kepada pembuat tutorial atas panduan yang sangat membantu dalam mem
 
 ## 📬 Kontak
 
-Dibuat oleh **[Nama Anda]** — silakan hubungi saya:
+Dibuat oleh **Hasbi Azi Faisya** — silakan hubungi saya:
 
-[![GitHub](https://img.shields.io/badge/GitHub-[username]-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/[username])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[username]-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[username])
-[![Email](https://img.shields.io/badge/Email-[email]-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[email])
+[![GitHub](https://img.shields.io/badge/GitHub-[username]-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasbiazif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[username]-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasbi-azi-faisya-234044159)
+[![Email](https://img.shields.io/badge/Email-[email]-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hasbiazif13@gmail.com)
 
 ---
 
